@@ -1,4 +1,4 @@
-# datascience
+# Datascience
 This is the README file for the datascience repository:
 
 # Data Science Projects
